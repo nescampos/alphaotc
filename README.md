@@ -10,3 +10,5 @@ dApp with Aztec Network for OTC markets.
 4. Source and destination wallets can withdraw their new tokens.
 5. If source wallet cancels the agreement, gets its original tokens back (with a 0.5% penalty for the counterparty if they had deposited their part, with no penalty if the counterparty did not deposit theirs).
 6. If destination wallet cancels the agreement, gets its original tokens back (with a 0.5% penalty for the counterparty if they had deposited their part, with no penalty if the counterparty did not deposit theirs).
+
+![setps](steps.png)
